@@ -41,7 +41,6 @@ apis:
   - name: ProxyCrawl
     description: "Scraping and crawling anticaptcha service"
     humanURL: https://proxycrawl.com
-    baseURL: https://proxycrawl.com
     tags:
       - Development
     properties:
